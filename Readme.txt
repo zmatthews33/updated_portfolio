@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+I comepletely redesigned my portfolio using Bootstrap, Javascript, jQuery, Animate.css, Lightbox.css, Counter-Up.js, Easing.js, Popper.js, Font Awesome, DevIcon and Ion Icons.
 
-Theme Name: DevFolio
-Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+zachmatthews.me
