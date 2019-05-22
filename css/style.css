@@ -82,7 +82,8 @@ a:hover {
 }
 
 .display-6 {
-  font-size: 2rem;
+  padding-top: 5em;
+  font-size: 1.75em;
   font-weight: 300;
   line-height: 1.1;
 }
@@ -117,7 +118,7 @@ a:hover {
 
 .paralax-mf {
   position: relative;
-  padding: 8rem 0;
+  padding: 6rem 0;
 }
 
 .display-table {
@@ -179,11 +180,11 @@ a:hover {
 /*--/ Title Left /--*/
 
 .title-box-2 {
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .title-left {
-  font-size: 2rem;
+  font-size: 1.5em;
   position: relative;
 }
 
@@ -570,7 +571,7 @@ a:hover {
   left: 0;
   opacity: 1;
 }
-#7A3398 .navbar-toggler span:nth-child(1),
+.navbar-toggler span:nth-child(1),
 .navbar-toggler span:nth-child(3) {
   transition: -webkit-transform 0.35s ease-in-out;
   transition: transform 0.35s ease-in-out;
@@ -686,13 +687,13 @@ a:hover {
 /*ABOUT*/
 
 .about-mf .box-shadow-full {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background: rgba(102, 101, 101, 0.4);
 }
 
 .about-mf .about-img {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .about-mf .about-img img {
@@ -725,14 +726,22 @@ a:hover {
 .devicon {
   display: inline-flex;
   padding: 10px;
-  font-size: 8rem;
+  font-size: 2rem;
   color: white;
   border: 2px;
   border-style: solid;
   border-radius: 20%;
   margin: auto;
 }
-
+.devicon-container {
+  padding: 20px;
+  margin-bottom: 1em;
+  background-color: #000000;
+  border-style: solid;
+  border-radius: 25px;
+  border: 2px;
+  border-style: solid;
+}
 .skills-box {
   background-color: #fff;
   padding: 2.5rem 1.3rem;
@@ -783,6 +792,7 @@ a:hover {
 }
 
 .work-img {
+  height: 300px;
   display: block;
   overflow: hidden;
 }
@@ -793,6 +803,10 @@ a:hover {
 
 .work-content {
   padding: 1rem 5% 0.5rem 4%;
+  border: 1px;
+  border-style: solid;
+  border-bottom-right-radius: 2px;
+  border-bottom-left-radius: 2px;
 }
 
 .work-content .w-more {
